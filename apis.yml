@@ -8,10 +8,10 @@ description: >-
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - Configuration Language
-  - Policy As Code
   - Cloud Native
-  - Infrastructure As Code
+  - Configuration Language
+  - Infrastructure as Code
+  - Policy as Code
 url: https://raw.githubusercontent.com/api-evangelist/kcl/refs/heads/main/apis.yml
 created: '2025-01-01'
 modified: '2026-03-16'
@@ -24,8 +24,8 @@ apis:
       configuration and policy scenarios in cloud-native environments.
     humanURL: https://kcl-lang.io/
     tags:
-      - Configuration Language
       - Cloud Native
+      - Configuration Language
     properties:
       - type: Documentation
         url: https://kcl-lang.io/docs/user_docs/getting-started/intro
