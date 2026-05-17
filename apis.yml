@@ -29,14 +29,14 @@ apis:
     properties:
       - type: Documentation
         url: https://kcl-lang.io/docs/user_docs/getting-started/intro
-      - type: Getting Started
+      - type: GettingStarted
         url: https://kcl-lang.io/docs/user_docs/getting-started/kcl-quick-start
 common:
   - type: Website
     url: https://kcl-lang.io/
   - type: Documentation
     url: https://kcl-lang.io/docs/user_docs/getting-started/intro
-  - type: GitHub Organization
+  - type: GitHubOrganization
     url: https://github.com/kcl-lang
 maintainers:
   - FN: Kin Lane
