@@ -32,12 +32,16 @@ apis:
       - type: GettingStarted
         url: https://kcl-lang.io/docs/user_docs/getting-started/kcl-quick-start
 common:
+  - type: DomainSecurity
+    url: security/kcl-domain-security.yml
   - type: Website
     url: https://kcl-lang.io/
   - type: Documentation
     url: https://kcl-lang.io/docs/user_docs/getting-started/intro
   - type: GitHubOrganization
     url: https://github.com/kcl-lang
+  - url: https://kcl-lang.io/blog/rss.xml
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
