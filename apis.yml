@@ -67,6 +67,12 @@ apis:
       - type: GettingStarted
         url: https://kcl-lang.io/docs/user_docs/getting-started/kcl-quick-start
 common:
+  - type: Plans
+    url: plans/kcl-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/kcl-rate-limits.yml
+  - type: FinOps
+    url: finops/kcl-finops.yml
   - type: DomainSecurity
     url: security/kcl-domain-security.yml
   - type: Website
